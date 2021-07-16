@@ -1,7 +1,7 @@
 import { Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-function theNavBar() {
+function TheNavBar() {
   return (
     <div className="Navbar">
       <Navbar className="boop" expand="lg">
@@ -12,20 +12,20 @@ function theNavBar() {
             to="/"
             as={Link}
             className="navTab"
-            id="aboutme"
+            id="AboutMe"
           >
             About Me
           </Nav.Link>
 
-          <Nav.Link to="/portfolio" as={Link} className="navTab" id="portfolio">
+          <Nav.Link to="/portfolio" as={Link} className="navTab" id="Portfolio">
             Portfolio
           </Nav.Link>
 
-          <Nav.Link to="/contact" as={Link} className="navTab" id="contact">
+          <Nav.Link to="/contact" as={Link} className="navTab" id="Contact">
             Contact
           </Nav.Link>
 
-          <Nav.Link to="/resume" as={Link} className="navTab" id="resume">
+          <Nav.Link to="/resume" as={Link} className="navTab" id="Resume">
             Resume
           </Nav.Link>
         </Nav>
@@ -34,4 +34,4 @@ function theNavBar() {
   );
 }
 
-export default theNavBar;
+export default TheNavBar;
