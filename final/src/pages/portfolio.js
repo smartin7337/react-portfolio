@@ -1,7 +1,7 @@
 function Portfolio() {
   return (
     <div>
-      <img src="./images/cat.jpg"></img>
+      <img src="./images/portfolio.jpg"></img>
       <h5>My Assistant</h5>
     </div>
   );
