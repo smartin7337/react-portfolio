@@ -1,8 +1,8 @@
 function Portfolio() {
   return (
     <div>
-      <img src="./images/portfolio.jpg"></img>
-      <h5>My Assistant</h5>
+      <img src="C:\Users\HP\homework\react\final\src\images"></img>
+      <h5>Work Examples</h5>
     </div>
   );
 }
