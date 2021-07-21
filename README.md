@@ -6,7 +6,7 @@ This is a simple portfolio project made with React and was bootstrapped with [Cr
 
 ![Screenshot of homepage of resume tab ](/screenshots/resume.png)
 
-![Screenshot of contact tab ](/screenshots/contact.png)
+![Screenshot of contact tab ](/screenshots/contactme.png)
 
 ![Screenshot of portfolio tab ](/screenshots/portfolio.png)
 
